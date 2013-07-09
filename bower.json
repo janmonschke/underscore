@@ -21,5 +21,6 @@
   "scripts": [
     "underscore.js"
   ],
-  "_id": "underscore@1.5.1"
+  "_id": "underscore@1.5.1",
+  "main": "underscore.js"
 }
